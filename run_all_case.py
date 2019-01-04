@@ -5,7 +5,7 @@ import HTMLTestRunner
 from send_email import main2
 #待执行用例的目录
 def allcase():
-    case_dir=r"F:\PyCharm 2018.2.2\logintest\case"
+    case_dir=r"F:\PyCharm 2018.2.2\python_test\case"
     #case_path=os.path.join(os.getcwd(),"case")
     testcase=unittest.TestSuite()
     discover=unittest.defaultTestLoader.discover(case_dir,

@@ -30,7 +30,7 @@ def main2():
         "serverip": "smtp.qq.com",
         "serverport": "465",
         "username": "674732928@qq.com",
-        "password": "blhfxmwcsjlsbfib"  # QQ邮箱的SMTP授权码
+        "password": "tnwjjhwxkrnobedb"  # QQ邮箱的SMTP授权码
     }
 
     title = "自动化测试unittest测试框架报告"
